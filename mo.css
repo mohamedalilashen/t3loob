@@ -1,0 +1,76 @@
+*{margin: 0 auto }
+
+/*background*/
+
+
+
+
+
+
+.background
+{
+	margin: 0;
+	margin: auto;;
+	width: 1420px;
+	height: 1300px;
+	background: url(https://saji0.com/wp-content/uploads/2019/12/raiden-of-mortal-kombat_3840x2160_xtrafondos.com_-scaled.jpg);
+
+}
+ 
+.imgg
+{
+	
+	width: 80px;
+	height: 80px;
+	border-radius: 70px;
+}
+
+.imgg img
+{
+	
+	margin:20px;
+	margin-top: 305px;
+	border-radius: 98px;
+	box-shadow: 2px 2px #666;
+	cursor: pointer;
+	transition-duration: 2s;
+
+		background-color:khaki ;
+	transform: translate(9px);
+	box-shadow: 12px 2px wait;
+
+
+}
+
+.imgg img:active
+{
+	
+		background-color:khaki ;
+	transform: translate(9px);
+	box-shadow: 1px 1px #wait;
+	transition-duration: 0.5s;
+}
+
+
+.popo 
+{
+
+width: 80px;
+	height: 80px;
+	margin: auto;
+
+	
+}
+.popo img
+{
+border-radius: 90px;
+margin: -300px;
+margin-top: 380px;
+box-shadow: 2px 2px #666;
+	cursor: pointer;
+	transition-duration: 2s;
+
+		background-color:khaki ;
+	transform: translate(9px);
+	box-shadow: 12px 2px wait;
+}
